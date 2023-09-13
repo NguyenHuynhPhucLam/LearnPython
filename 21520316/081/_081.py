@@ -1,13 +1,12 @@
 x = float(input("Nhap x: "))
 n = int(input("Nhap n: "))
 
-s = x
-t = x
-i = 3
+s = 0
+m = 1
+i = 0
+while (i<=n):
+    m = m * (x + i)
+    s = s + 1/m
+    i = i + 1
 
-while(i<=2*n+1):
-    t = t * x * x
-    s = s + t
-    i = i + 2
-    
 print("S(",x,",",n,") =", s)
