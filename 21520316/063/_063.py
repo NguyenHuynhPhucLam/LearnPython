@@ -1,0 +1,9 @@
+n = float(input("Nhap n: "))
+tich = 1
+t = n
+while (t != 0):
+    dv = t % 10
+    if(dv % 2 != 0):
+        tich = tich * dv
+    t = int(t / 10)
+print("tich = ", tich)
