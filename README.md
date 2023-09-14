@@ -1,1 +1,16 @@
 # LearnPython
+Phân chia công việc nhóm:
+Quy tắc:
+Nguyễn Cao Quốc Bảo số 1
+Nguyễn Huỳnh Phúc Lâm số 2
+Nguyễn Huỳnh Phúc Thịnh số 3
+Nguyễn Phúc Bình số 4
+Tô Thế Kiệt số 5
+  Theo số thứ tự trên mỗi người chỉ cần làm tuần tự.
+Ví dụ:
+Bảo làm 1, 6, ...
+Lâm làm 2, 7, ...
+Thịnh làm 3, 8, ...
+Bình làm 4, 9, ...
+Kiệt lam 5, 10, ...
+Đặt tên từng project dưới dạng có 3 chữ số (VD: 002, 123, 021, ...)
