@@ -1,5 +1,5 @@
 # LearnPython
-Phân chia công việc nhóm: /n
+Phân chia công việc nhóm: 
 Quy tắc:
 Nguyễn Cao Quốc Bảo số 1
 Nguyễn Huỳnh Phúc Lâm số 2
